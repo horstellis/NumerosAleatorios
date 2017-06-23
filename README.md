@@ -1,7 +1,7 @@
 # NumerosAleatorios
 Generacion de numeros aleatorios sin repetición con diferentes condiciones y reglas
 
-Solución desarollada en HTML5, usando como frontend materializecss y como backend C#.
+Solución desarollada en HTML5, usando como frontend Materialize CSS y como backend C#.
 
 La versión online esta disponible en www.horstellis.cl/portafolio/aleatorio
 Exiten tres versiones disponibles
@@ -16,3 +16,8 @@ www.horstellis.cl/portafolio/aleatorio/aleatorio2.aspx
 www.horstellis.cl/portafolio/aleatorio/aleatorio3.aspx
 
 Sientanse libres de utilizar el código de la forma que estimen conveniente ;)
+
+
+----------------------------------------------------
+Materialize CSS disponible en www.materializecss.com
+----------------------------------------------------
